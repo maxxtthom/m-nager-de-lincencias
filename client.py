@@ -63,7 +63,7 @@ os.system('cls')
 cliente = 'maxx'.upper()#--------->>NOMBRE DE CLIENTE
 idbot = 'ORBIDATA movistar'.upper()#--------->>NOMBRE DE BOT/PROGRAMA
 
-host = '192.168.56.1'; port = 5025# AQUI PUERTO ESCUCHA DE SERVIDOR
+host = 'AQUI TU IP DE SERVIDOR'; port = 5025# AQUI PUERTO ESCUCHA DE SERVIDOR
 
 ######################################################
 ######################################################
