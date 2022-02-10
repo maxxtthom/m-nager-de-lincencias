@@ -9,8 +9,8 @@ PARA NO PODER SER REVENDIDO POR PERSONAS INESCRUPOLOSAS TRABAJO QUE NO REALIZARO
 no se debe utilizar tal como esta tienes que ingenciarte donde esconger codigo que genera este programa
 
 path_us = este es nombre de la ruta donde se guarda el codigo generado
-'ojo' solo se genera 1 soles vez el codigo. una vez se genero todas las veces que se usa el porgrama ara consulta a ese dorectorio y emviara el codigo al servidor
-en el servidor a la consulta si ese codigo esta en la lista y si encuentra responder con la clave designado en el sevidor
+'ojo' solo se genera 1 soles vez el codigo. una vez se genero todas las veces que se usa el porgrama ara consulta a ese directorio y emviara el codigo al servidor
+si ese codigo esta en la lista respondera con la clave designado en el servidor
 
 antes de ejecutar este programa debes ejecutar primero el server.py
 ATTE: Telegram @Maxxthon https://t.me/Maxxthon
