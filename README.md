@@ -1,4 +1,4 @@
-# m-nager-de-lincencias
+# manager-de-lincencias
 ESTE PRPGRAMA ES DESAROLLADO POR MAXXTTHOM
 CON FINES DE PROTEGER OBRAS DE PORGRAMACION
 
