@@ -224,3 +224,4 @@ elif premium == False:
     print(Fore.CYAN + '       P O W E R    B Y :   M A X X T T H O M')
     print(Fore.GREEN + '******************************************************')
     input()
+    #..
