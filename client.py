@@ -74,9 +74,6 @@ idbot = idbot.replace(' ', '=')
 
 
 
-
-
-
 def gen():
     ran = randint(1000, 9999); num =str(ran).rstrip(); return num
 
